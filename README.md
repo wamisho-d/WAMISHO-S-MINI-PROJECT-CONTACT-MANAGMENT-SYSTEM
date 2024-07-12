@@ -1,6 +1,6 @@
 Contact Management System
 
-Features
+Contact Management System Features
 
  - Add a new contact
  - Edit an existing contact
